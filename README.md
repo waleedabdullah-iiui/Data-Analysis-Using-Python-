@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Waleed abdulah</h1>
-<h3 align="center">A passionate Information Technology Expert pakistan</h3>
+<h3 align="center">A passionate Information Technology Expert pakistan
+
+I am currently enrolled in a BS Software Engineering program 🎓 and have a profound affection for the term "code" 💻👨‍💻. Actively engaged in acquiring knowledge of emerging technologies, my passion extends beyond the realms of programming to encompass literature 📚, creative writing ⚡, and the world of music 🎧.
+
+I am enthusiastic about joining welcoming communities that foster self-expression and collaborative coding. My ultimate goal is to establish a network where individuals can gather, enjoy each other's company, and engage in exciting code jams!
+</h3>
 
 <img align="right" alt="coding" width="400" src="[https://user-
 images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2-dQS1aoQohv6fsi0qKAqj&ust=1707045270016000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODwzKmFj4QDFQAAAAAdAAAAABAE)">
