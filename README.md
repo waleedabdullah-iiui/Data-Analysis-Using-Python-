@@ -3,7 +3,7 @@
 
 <h>Enrolled in BS Software Engineering 🎓, I thrive on the magic of "code" 💻👨‍💻. Fueled by a passion for literature 📚, creative writing ⚡, and the rhythm of music 🎧. Join me in vibrant coding spaces, where we unleash creativity and build a network for epic code jams! 🚀✨</h> 
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/waleedabdullah-iiui/Waleed-Abdullah/assets/156667619/b9df65a0-9f6a-4ff3-98fd-e67d28e7de91)">
+![image](https://github.com/waleedabdullah-iiui/Waleed-Abdullah/assets/156667619/b9df65a0-9f6a-4ff3-98fd-e67d28e7de91)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedabdullah-iiui&label=Profile%20views&color=0e75b6&style=flat" alt="waleedabdullah-iiui" /> </p>
 
