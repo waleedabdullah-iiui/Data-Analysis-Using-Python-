@@ -2,7 +2,7 @@
  <h1 align="center">Hi 👋, I'm Waleed abdulah</h1>
 <h3 align="center">A passionate Information Technology Expert pakistan</h3>
 
-<h>Enrolled in BS Software Engineering 🎓, I thrive on the magic of "code" 💻👨‍💻. Fueled by a passion for literature 📚, creative writing ⚡, and the rhythm of music 🎧. Join me in vibrant coding spaces, where we unleash creativity and build a network for epic code jams! 🚀✨</h> 
+<h>Enrolled in BS Information Technology 🎓, I thrive on the magic of "code" 💻👨‍💻. Join me in vibrant coding spaces, where we unleash creativity and build a network for epic code jams! 🚀✨</h> 
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
