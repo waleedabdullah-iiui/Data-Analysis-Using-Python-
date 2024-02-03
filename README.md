@@ -1,3 +1,4 @@
+![banner](file:///C:/Users/HP/Desktop/Content-Creator-LinkedIn-Banner-.png)
  <h1 align="center">Hi 👋, I'm Waleed abdulah</h1>
 <h3 align="center">A passionate Information Technology Expert pakistan</h3>
 
